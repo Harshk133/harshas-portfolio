@@ -162,7 +162,7 @@ export const DATA = {
   projects: [
     {
       title: "Code To Podcast",
-      href: "#",
+      href: "https://marketplace.visualstudio.com/items?itemName=HarshKale.code-podcast",
       dates: "2026",
       active: true,
 
@@ -184,7 +184,7 @@ export const DATA = {
       links: [
         {
           type: "Marketplace",
-          href: "#",
+          href: "https://marketplace.visualstudio.com/items?itemName=HarshKale.code-podcast",
           icon: <Icons.globe className="size-3" />,
         },
         {
@@ -219,8 +219,13 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "#",
+          href: "https://github.com/Harshk133/CodeCare",
           icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Website",
+          href: "https://codecare-wla1.onrender.com/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
 
@@ -248,8 +253,13 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/Harshk133",
+          href: "https://github.com/Harshk133/adk-connector",
           icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Website",
+          href: "https://adk-connector.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
 
@@ -258,37 +268,8 @@ export const DATA = {
     },
 
     {
-      title: "Cutly",
-      href: "#",
-      dates: "2026",
-      active: true,
-
-      description:
-        "A browser-based AI-focused video editor built for modern creators. Features include media importing, transforms, masking, blending modes, captions, and browser-based video export powered by FFmpeg WebAssembly.",
-
-      technologies: [
-        "Next.js",
-        "JavaScript",
-        "Tailwind CSS",
-        "FFmpeg WASM",
-        "React",
-      ],
-
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/Harshk133",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-
-      image: "",
-      video: "",
-    },
-
-    {
       title: "RAG Chat2PDF",
-      href: "#",
+      href: "http://187.124.99.31:3100/",
       dates: "2026",
       active: true,
 
@@ -307,11 +288,6 @@ export const DATA = {
 
       links: [
         {
-          type: "Source",
-          href: "https://github.com/Harshk133",
-          icon: <Icons.github className="size-3" />,
-        },
-        {
           type: "Website",
           href: "http://187.124.99.31:3100/",
           icon: <Icons.globe className="size-3" />,
@@ -324,7 +300,7 @@ export const DATA = {
 
     {
       title: "Browser Agent Lab",
-      href: "#",
+      href: "https://como-agents.vercel.app/",
       dates: "2026",
       active: true,
 
@@ -342,9 +318,9 @@ export const DATA = {
 
       links: [
         {
-          type: "Source",
-          href: "https://github.com/Harshk133",
-          icon: <Icons.github className="size-3" />,
+          type: "Website",
+          href: "https://como-agents.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
 
@@ -354,7 +330,7 @@ export const DATA = {
 
     {
       title: "Chrome Dino AI Agent",
-      href: "#",
+      href: "https://github.com/Harshk133/dino-game-with-nimble",
       dates: "2026",
       active: false,
 
@@ -373,7 +349,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/Harshk133",
+          href: "https://github.com/Harshk133/dino-game-with-nimble",
           icon: <Icons.github className="size-3" />,
         },
       ],
